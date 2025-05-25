@@ -6,8 +6,8 @@ Một ứng dụng web được xây dựng bằng [Next.js](https://nextjs.org/
 
 - [Next.js](https://nextjs.org/)
 - [React](https://reactjs.org/)
-- [Tailwind CSS](https://tailwindcss.com/) (tuỳ chọn)
-- [TypeScript](https://www.typescriptlang.org/) (nếu dùng)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [TypeScript](https://www.typescriptlang.org/)
 
 ## ⚙️ Cài đặt và chạy dự án
 
